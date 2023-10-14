@@ -1,0 +1,35 @@
+html, body {
+    background-color: bisque;
+}
+.header {
+    color: rgb(2, 116, 78);
+    margin-bottom: 0;
+}
+.contact {
+    margin: 0;
+    color: blue;
+}
+.resume-container {
+    /* background-color: brown; */
+    width: 240px;
+    height: 20px;
+    padding: 20px;
+}
+.before {
+    text-align: center;
+    opacity: 1;
+}
+.after {
+    display: none;
+    opacity: 0;
+}
+.final-section {
+    display: none;
+    opacity: 0;
+}
+ul {
+    margin-left: 0;
+}
+li {
+   margin-left: 50px; 
+}
